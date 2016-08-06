@@ -1,0 +1,51 @@
+_repo: De-legende-en-de-heldhaftige-vroolijke-en-roemrijke-daden-van-Uilenspiegel-en-Lamme-Goedzak-i__11208
+_version: 0.0.1
+alternative_title: Légende d'Ulenspiegel. Dutch
+contributor:
+  illustrator:
+    agent_name: Gondry, Jules
+    gutenberg_agent_id: '6534'
+    url: http://www.gutenberg.org/2009/agents/6534
+  translators:
+  - agent_name: Clercq, René de
+    aliases:
+    - Declercq, René Desiderius
+    - Clercq, Rene de
+    - Clercq, René Desiderius de
+    birthdate: 1877
+    deathdate: 1932
+    gutenberg_agent_id: '4598'
+    url: http://www.gutenberg.org/2009/agents/4598
+    wikipedia: http://en.wikipedia.org/wiki/Ren%C3%A9_de_Clercq
+  - agent_name: Delbecq, Richard
+    gutenberg_agent_id: '4597'
+    url: http://www.gutenberg.org/2009/agents/4597
+creator:
+  author:
+    agent_name: Coster, Charles de
+    aliases:
+    - DeCoster, Charles Théodore Henri
+    - Coster, Charles Théodore Henri de
+    - Coster, Charles Theodore Henri de
+    birthdate: 1827
+    deathdate: 1879
+    gutenberg_agent_id: '3883'
+    url: http://www.gutenberg.org/2009/agents/3883
+    wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11208'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Eulenspiegel (Satire) -- Legends'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: De legende en de heldhaftige, vroolijke en roemrijke daden van Uilenspiegel
+  en Lamme Goedzak in Vlaanderenland en elders
+url: http://www.gutenberg.org/ebooks/11208
