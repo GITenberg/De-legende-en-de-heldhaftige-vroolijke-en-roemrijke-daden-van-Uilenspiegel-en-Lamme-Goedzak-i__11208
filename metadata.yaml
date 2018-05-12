@@ -1,5 +1,5 @@
 _repo: De-legende-en-de-heldhaftige-vroolijke-en-roemrijke-daden-van-Uilenspiegel-en-Lamme-Goedzak-i__11208
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Légende d'Ulenspiegel. Dutch
 contributor:
   illustrator:
@@ -20,6 +20,9 @@ contributor:
   - agent_name: Delbecq, Richard
     gutenberg_agent_id: '4597'
     url: http://www.gutenberg.org/2009/agents/4597
+covers:
+- cover_type: archival
+  image_path: 11208-h/images/cover.jpg
 creator:
   author:
     agent_name: Coster, Charles de
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3883
     wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11208#De-legende-en-de-heldhaftige-vroolijke-en-roemrijke-daden-van-Uilenspiegel-en-Lamme-Goedzak-i_
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
