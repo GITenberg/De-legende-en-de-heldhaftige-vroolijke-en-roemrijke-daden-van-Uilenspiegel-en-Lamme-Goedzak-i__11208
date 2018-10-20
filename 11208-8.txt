@@ -4,20 +4,22 @@ roemrijke daden van Uilenspiegel en Lamme Goedzak in Vlaanderenland en elders, b
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
+with this eBook or online at www.gutenberg.org/license
 
 
-Title: De legende en de heldhaftige, vroolijke en roemrijke daden van Uilenspiegel en Lamme Goedzak in Vlaanderenland en elders
+Title: De legende en de heldhaftige, vroolijke en roemrijke daden
+van Uilenspiegel en Lamme Goedzak in Vlaanderenland en elders
 
 Author: Charles de Coster
 
 Release Date: July 3, 2005 [EBook #11208]
+[Last updated: March 14, 2015]
 
 Language: Dutch
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK UILENSPIEGEL ***
+*** START OF THIS PROJECT GUTENBERG EBOOK DE LEGENDE EN DE HELDHAFTIGE ***
 
 
 
@@ -28,22 +30,30 @@ Produced by Jeroen Hellingman and the PG Distributed Proofreaders Team
 
 
 
-					De legende en de heldhaftige,
-				  vroolijke en roemrijke daden van
-					Uilenspiegel en Lamme Goedzak
-					 in Vlaanderenland en elders
-
-
-							   door
-
-						   Charles de Coster
 
 
 
-					in het Vlaamsch vertaald door
+                     De legende en de heldhaftige,
+                    vroolijke en roemrijke daden van
+                     Uilenspiegel en Lamme Goedzak
+                      in Vlaanderenland en elders
 
-				Richard Delbecq    en   René de Clercq
-				(voor het proza)      (voor de liederen)
+
+                                  door
+
+                           Charles de Coster
+
+
+
+                     in het Vlaamsch vertaald door
+
+                 Richard Delbecq   en   René de Clercq
+                 (voor het proza)     (voor de liederen)
+
+                               Derde druk
+                     met 22 platen van Jules Gondry
+                                  1919
+
 
 
 
@@ -53,6 +63,7 @@ Produced by Jeroen Hellingman and the PG Distributed Proofreaders Team
 KORTE LEVENSBESCHRIJVING VAN CHARLES DE COSTER
 
 Bewerkt naar Ch. Potvin, Francis Nautet enz.
+
 
 Charles-Theodore-Henri De Coster werd geboren te München, den 20n
 Augustus 1827. Zijn vader was intendant van graaf Charles Mercy
@@ -186,7 +197,7 @@ die zijn traktement aansloegen en hunne prooi niet meer loslieten.
 
 Toen hij stierf, op 7 Mei 1879, verkeerde hij in de diepste ellende.
 
-       *       *       *       *       *
+                   *       *       *       *       *
 
 Den 22n Juli 1894 werd door het gemeentebestuur van Eisene een
 eenvoudig doch treffend gedenkteeken van den beeldhouwer Samuel ter
@@ -194,7 +205,12 @@ nagedachtenis van De Coster ingehuldigd.
 
 
 
+
+
+
+
 DE LAATSTE OOGENBLIKKEN VAN CHARLES DE COSTER.
+
 
 Charles De Coster stierf op 7 Mei 1879, te Elsene, in het huis, dat
 den hoek uitmaakt van de Gewijde-Boomstraat, en toen gehuurd werd
@@ -240,11 +256,17 @@ werd de ademhaling flauwer, een laatste naam, die zijner zuster,
 kwam pijnlijk over zijne lippen: "Ca...ro...line". Het was zijn hart,
 dat ontsnapte. Het was twee uren.
 
+
 Hector Denis.
 
 
 
+
+
+
+
 VOORREDE VAN DEN UIL [1]
+
 
 Heeren kunstenaars, heeren uitgevers, heer dichter, ik heb u eenige
 aanmerkingen te doen aangaande uwe eerste uitgave. Hoe! in dat
@@ -381,12 +403,16 @@ zeer voorzichtige en pedante lieden zijn, die uwen trant niet gewoon
 zijn en hunne taal zoozeer kuischen, dat er ten lange laatste niets
 zal van overblijven. [3]
 
+
 Bubulus Bubb.
 
 
 
-EERSTE BOEK.
 
+
+
+
+EERSTE BOEK.
 
 
 I.
@@ -699,7 +725,7 @@ zijn. Zoo zal hij dolen langs velden en wegen, het goede en het schoone
 prijzen en lachen en spotten met alles wat dwaas en verkeerd is. Klaas
 is uw moed, edel volk van Vlaanderen, en Soetkin uwe dappere moeder;
 Uilenspiegel is uw geest; een lief en bevallig meisje, Uilenspiegel's
-gezellin en onsterfelijk als hij, zal uw hert zijn, en Lamme Ooedzak,
+gezellin en onsterfelijk als hij, zal uw hert zijn, en Lamme Goedzak,
 een dikke pens, uwe maag. En omhoog zullen de opeters van 't volk gaan,
 en omlaag hunne slachtoffers; omhoog de roovende wespen, omlaag de
 noeste bijen, en in den hemel zullen de wonden van Christus bloeden.
@@ -752,7 +778,7 @@ water gewasschen. Dit was zijn zesde doopsel.
 
 VII.
 
-Dien dag besloot Zijne Heilige Masjesteit keizer Karel, groote feesten
+Dien dag besloot Zijne Heilige Majesteit keizer Karel, groote feesten
 te houden, om de geboorte van zijn zoon te vieren. Evenals Klaas,
 besloot hij uit visschen te gaan, niet in de vaart, doch in de beurzen
 en tasschen zijner onderdanen. Daaruit is het dat vorstelijke lijnen
@@ -1129,7 +1155,7 @@ doch hadden geenerlei zin tot vliegen. Anderen waren gekapt met
 zoogenaamde "salades", door de slakken onwaardig gekeurd omdat ze
 niet groen genoeg waren.
 
-Maar het meerendeel had helmen, zou oud en verroest, dat ze uit den
+Maar het meerendeel had helmen, zoo oud en verroest, dat ze uit den
 tijd schenen te zijn van Gambrinus, koning van Vlaanderen en koning
 van het bier, dewelke regeerde negenhonderd jaar vóór Christus en eene
 pint op zijn hoofd droeg, uit vrees niet op tijd te kunnen drinken,
@@ -1187,7 +1213,7 @@ te vluchten als hazen? Wat doet het vuur uit de steenen springen? Het
 ijzer, dat er op slaat!
 
 Op die woorden gingen die onnoozele pelgrims voort te vechten met
-helmen, met handen en met voeten, 't Was een verwoede strijd, waarvan
+helmen, met handen en met voeten. 't Was een verwoede strijd, waarvan
 Argus met zijn honderd oogen niets hadde gezien dan stofwolken en
 hier en daar de punt van een helm.
 
@@ -1671,8 +1697,8 @@ De infant weende.
 
 --Het zou niets zijn, zoo men mij gerust liet, zegde de infant.
 
---Denkt gij soms, hernam de keizer ongeduldig, uw  koninklijk leven
-als de poëten in mijmering door te brengen? Laat hen hunne perkamenten
+--Denkt gij soms, hernam de keizer ongeduldig, uw koninklijk leven als
+de poëten in mijmering door te brengen? Laat hen hunne perkamenten
 met inkt bemorsen, in stilte, eenzaamheid en bespiegeling; aan u
 zoon van het zweerd, behoort het warme bloed, het oog van den arend,
 de list van den vos, de kracht van een Hercules. Waarom maakt gij het
@@ -2094,7 +2120,7 @@ De infant, nu vijftien jaar oud, dwaalde als naar gewoonte door gangen
 en trappen en zalen van 't slot. Doch meestal slenterde hij rond de
 vertrekken der edelvrouwen, om de edelknapen te verschalken, die,
 gelijk hij, als katten in de gangen op loer lagen. Andere jonkers
-waren in den tuin, keken  verzuchtend omhoog, en zongen eene ballade
+waren in den tuin, keken verzuchtend omhoog, en zongen eene ballade
 van minne.
 
 Als de infant het hoorde, vertoonde hij zich eensklaps aan een der
@@ -2517,7 +2543,7 @@ in groote statie, de sententie over de stede uit.
 De voornaamste poorters moesten vóór zijnen troon vergiffenis komen
 vragen, met een strop om den hals; Gent werd schuldig verklaard aan
 de ergste misdaden, dewelke zijn: ontrouw, inbreuk op de tractaten,
-ongehoorzaamheid, muiterij, opstand en majesteitsschennis. De  keizer
+ongehoorzaamheid, muiterij, opstand en majesteitsschennis. De keizer
 verklaarde alle geschonken privileges, rechten, vrijheden, costumen
 en gebruiken verbeurd en, de toekomst verbindende alsof hij God zelf
 was, bepaalde hij verder, dat zijne opvolgers, bij hunne komst als
@@ -3801,7 +3827,7 @@ Zij knikte tot teeken dat zij hem herkende; vervolgens wenkte zij
 hem om nader te komen en fluisterde hem in 't oor:
 
 --Als gij hem ziet, wiens kussen koud als de sneeuw zijn, zeg hem
-van te komen, Uilenspiegel.
+dan te komen, Uilenspiegel.
 
 Vervolgens heur verbrand haar toonende, sprak zij:
 
@@ -4950,7 +4976,7 @@ vervolgens vriendelijk op den schouder.
 
 --Leve mijn broeder Judocus, de goede heremijt! riep hij uit, terwijl
 hij de tassche deed rinkelen. God beware hem in vreugd, in vet en in
-gezondheid, 't Is Judocus vol zegen, Judocus vol overvloed, Judocus
+gezondheid. 't Is Judocus vol zegen, Judocus vol overvloed, Judocus
 met zijne vette soep! De ooievaar heeft geenszins gelogen!
 
 En hij legde de tassche op de tafel. Jammerend sprak Soetkin toen:
@@ -5050,6 +5076,7 @@ Keizer Karel ontving dien dag uit Engeland een brief, in denwelken
 zijn zoon hem schreef:
 
 
+
 "Heer en Vader,
 
 "Het mishaagt mij grootelijks te moeten leven in een land, waar
@@ -5104,7 +5131,9 @@ Majesteit.
 
 "Ondertekend: Philippus."
 
+
 De keizer antwoordde als volgt:
+
 
 
 "Mijnheer en Zoon,
@@ -6724,7 +6753,7 @@ vel, het kan dienen om het nieuwe te vermaken, als de mot er in komt.
 
 
 
-XLVII.
+LXVII.
 
 Dien Zondag ging te Brugge de Heilig-Bloedprocessie uit. Klaas zei
 tot zijne vrouw en tot Nele van er heen te gaan, daar zij misschien
@@ -7604,7 +7633,7 @@ en gilde:
 --De rook!
 
 De drie bedroefden zagen een groote zwarte rookwolk dwarrelend omhoog
-stijgen, 't Was de rook van den brandstapel, waarop Klaas aan eenen
+stijgen. 't Was de rook van den brandstapel, waarop Klaas aan eenen
 staak was gebonden en dien de scherprechter aan drie kanten aangestoken
 had, in naam des Vaders, des Zoons en des Heiligen Geestes.
 
@@ -7627,7 +7656,7 @@ het venster trekken. Zij hoorden een bangen kreet: 't was Klaas,
 wiens lichaam aan eenen kant brandde. Maar hij zweeg en weende. En
 zijne borst was nat van zijne tranen.
 
-Toen hoorden Soetkin en Uilenspiegel een groot rumoer, 't Waren de
+Toen hoorden Soetkin en Uilenspiegel een groot rumoer. 't Waren de
 poorters, vrouwen en kinderen die riepen:
 
 --Klaas werd niet veroordeeld om te sterven met zacht vuur, maar met
@@ -8606,7 +8635,7 @@ Bij dit verhaal vouwde Soetkin de handen, om voor Katelijne te
 bidden. Katelijne sprak blijde:
 
 --Mijn lijf en mijn geest, alles zij hem. Hansken, mijn liefste,
-leid mij nog naar den Sabbat, 't Is Nele, die nooit komen wil! Nele
+leid mij nog naar den Sabbat. 't Is Nele, die nooit komen wil! Nele
 is stout.
 
 --Bij de ochtendschemering toog hij henen, vervolgde het meisje,
@@ -8863,7 +8892,7 @@ Nele het getweeën, en heel den nacht baden zij voor de arme ziele.
 
 Bij de ochtendschemering vloog een zwaluw het open venster binnen.
 
----De vogel der zielen, sprak Nele, dat is een goed teeken: Soetkin
+--De vogel der zielen, sprak Nele, dat is een goed teeken: Soetkin
 is in den hemel.
 
 De zwaluw vloog driemaal rond de kamer en verdween met een schellen
@@ -9393,9 +9422,10 @@ rijzende zonne bestraald.
 
 
 
+
+
+
 TWEEDE BOEK.
-
-
 
 
 I.
@@ -10521,7 +10551,7 @@ dat wij onze hostiën met hondenvet bakken! Een ander durft zeggen:
 't is die geus, die op dien waterpot zit, op den hoek van de straat:
 "Er is geen God, geen eeuwig leven, geene verrijzenis des vleesches,
 geen eeuwige verdoemenis". "Men mag, zegt die andere ginder,
-men mag doopen zouder zout, zonder vet, zonder speeksel, zonder
+men mag doopen zonder zout, zonder vet, zonder speeksel, zonder
 duivelbezwering en zonder keerse". "Er is geen vagevier", zegt een
 ander. Geen vagevier, goede lieden! Zaliger voor u goede lieden,
 ware het van te zondigen met uwe moeder, uwe zuster, uwe dochter,
@@ -10627,8 +10657,8 @@ doctoren en wijsneuzige wijsgeeren halsstarrig doen afstammen van
 Minrewater of Minderbroederswater.
 
 Zij bleven op den oever staan en zij zagen vrouwen, meidekens en
-knapen, arm in arm, met bloemen getooid, die malkander teeederlijk
-in de oogen bezagen en dicht tegen elkander gedrongen gingen.
+knapen, arm in arm, met bloemen getooid, die malkander teederlijk in
+de oogen bezagen en dicht tegen elkander gedrongen gingen.
 
 Als Uilenspiegel hen zag, dacht hij aan Nele. En bij die weemoedige
 herinnering, sprak hij treurig tot Lamme:
@@ -10821,7 +10851,7 @@ Uilenspiegel.
 
 Een monnik bleef staan.
 
---Wat doet dat kaif daar? vroeg hij.
+--Wat doet dat kalf daar? vroeg hij.
 
 --Het kalf vraagt plat op zijn buik uwen zegen, mijn vader, antwoordde
 Uilenspiegel.
@@ -11926,13 +11956,13 @@ bij Praet en vertelde hem wat hij gehoord had.
 De hertog! de hertog te Brussel! Waar zijn de geldkisten, die
 vleugelen hebben?
 
-       *       *       *       *       *
+
+
+
 
 
 
 DERDE BOEK.
-
-
 
 
 I.
@@ -12144,8 +12174,8 @@ den heiligen oorlog. Vive le geus!
 
 Zij bestoken, dooden, plunderen de soldaten des Konings en vluchten
 vervolgens naar hunne holen. Dag en nacht ziet men in de bosschen
-vuren aansteken en uitdooven, en gedurig van plaats veranderen,
-'t Is het vuur onzer festijnen. Aan ons de eenden en hazen! Wij
+vuren aansteken en uitdooven, en gedurig van plaats veranderen. 't
+Is het vuur onzer festijnen. Aan ons de eenden en hazen! Wij
 zijn de heeren! De boeren geven ons brood en spek, zooveel als wij
 willen. Bezie ze, Lamme. Schuw, armoedig, vastberaden en zonder genade,
 zwerven zij door de bosschen met hunne aksten, hellebaarden, zweerden,
@@ -12199,7 +12229,6 @@ tijgers. Verslindt de honden van den bloedigen koning.
     Slaat op den trommel van dirre dom deijne,
     Slaat op den trommel van dire dom dom.
     Oorlog om Oorlog! Leve de Geus!
-
 
 
 
@@ -12458,7 +12487,7 @@ plakken op 't gezicht van Pompilius, die er eerbiedweerdig uitziet,
 daar hij altijd weemoedig is. Wij zullen hem den mijter opzetten, hem
 het koorhemd, den pelsmantel en het groote opperste kleed des santen
 aandoen; wij zullen hem aanbevelen stil op zijn voetstuk te blijven,
-en de geloovigen zullen hem voor den houten Sint-Maarten nemen,
+en de geloovigen zullen hem voor den houten Sint-Maarten nemen.
 
 De proost ging tot Pompilius, die meer dood dan levend aan het
 klokzeel bengelde.
@@ -12751,7 +12780,7 @@ De pelgrim staarde hem aan en zeide:
 
 Uilenspiegel kromde zijnen rug en zuchtte, terwijl hij er aan voelde:
 
---Genade, doorluchtige heilige, 't Is de kastijding. Tusschen
+--Genade, doorluchtige heilige. 't Is de kastijding. Tusschen
 mijne schouderen voel ik een geweldige pijn. Laas! ai! Vergiffenis,
 mijnheer Sint-Remaclus, Ga voort, pelgrim, en laat mij hier, als een
 vadermoorder, in alleenigheid weenen met mijn berouwhebbend herte.
@@ -13976,7 +14005,7 @@ En gedurig wees zij met den vinger naar de plaats, waar het werk heur
 hoofd verbrand had.
 
 Katelijne was nu zeer arm, doch de buren stonden haar bij met boonen,
-met brood en met vleesch, ai naarvolgens hunne middelen. Ook de
+met brood en met vleesch, al naarvolgens hunne middelen. Ook de
 disch gaf heur wat geld. En Nele naaide voor de rijke poorteressen,
 ging uit strijken en verdiende aldus een gulden per week.
 
@@ -14546,7 +14575,7 @@ schildwachten bliezen alarm en kwamen achtereenvolgens terug naar
 het kamp, zeggende:
 
 --De vijand nadert; wij hebben 't gerucht van pijpen en schalmeien
-gehoord, en vendels gezien, 't Is een sterke afdeeling ruiterij die
+gehoord, en vendels gezien. 't Is een sterke afdeeling ruiterij die
 ons zeker in een hinderlaag wil lokken. Het legerkorps is ongetwijfeld
 in aantocht.
 
@@ -14925,7 +14954,7 @@ gespannen. Dáár, sprak zij, naar eene afspanning wijzend, daar in
 den Blauwen Toren, smeet hij, op twintig stappen afstand, zijn mes
 door een eiken berd van twaalf duim dik.
 
---Hi han ! hi han! ging de schipper voort, terwijl een jongetje
+--Hi han! hi han! ging de schipper voort, terwijl een jongetje
 van twaalf jaar op het dek van het schip klom en insgelijks begon
 te balken.
 
@@ -16295,7 +16324,7 @@ als hij niet dadelijk opkraamde.
 ... De andere wilde nog antwoorden, doch Michielken deed als hij
 gezegd had: hij sloeg tweemaal met de vuist op zijn aangezicht en
 trok hem bij den snoet op de straat, alwaar hij hem, zonder deernis,
-gansch bebloed en gekneusd op een mesthoop smeet,
+gansch bebloed en gekneusd op een mesthoop smeet.
 
 ... Als Pieter de Roose, die in alleenigheid niet kon leven, genezen
 was, ging hij in het Vagevier, eene taveerne, die heuren naam niet
@@ -16517,7 +16546,7 @@ den doode klopt op mijne borst: ik wil Spelle den moordenaar dooden.
 --Boelkin zendt mij bij u, antwoordde Uilenspiegel. Ik zal Spelle
 dooden en gij zult mij helpen.
 
----Ik wil, zegde de baas. Wat moet ik doen?
+--Ik wil, zegde de baas. Wat moet ik doen?
 
 Uilenspiegel antwoordde:
 
@@ -17048,7 +17077,7 @@ hand van den bloedigen hertog.
 
 Uilenspiegel sprak:
 
-De tijd is voorbij, dat men den gruwzamen beul te lande bestreed, 't
+De tijd is voorbij, dat men den gruwzamen beul te lande bestreed. 't
 Is op zee, dat wij zijne macht moeten fnuiken. Gaat naar den kant van
 de Zeeuwsche eilanden, over Brugge, Heist en Knokke, langs het duin.
 
@@ -17262,10 +17291,10 @@ Stevenijne antwoordde:
 in stede van hen hier al dat gedruisch te laten maken, vóór zij naar
 't galgeveld trekken.
 
---Ais hij zich vermeet ons te scheiden, sprak Uilenspiegel, hameren
+--Als hij zich vermeet ons te scheiden, sprak Uilenspiegel, hameren
 wij met zijnen kop op de vloersteenen.
 
---ja, op de vloersteenen, bevestigde Lamme.
+--Ja, op de vloersteenen, bevestigde Lamme.
 
 --De baas komt ons redden, fluisterde Uilenspiegel tot Lamme.
 
@@ -17765,7 +17794,7 @@ ontvangen als eerloozen prijs uwer aanklacht.
 Plotseling riepen de vijf andere:
 
 --Twintig gulden! Voor twintig gulden willen wij ook den prins
-dienen. De koning betaald slecht. Geef ons enkel de helft van die som,
+dienen. De koning betaalt slecht. Geef ons enkel de helft van die som,
 en wij vertellen aan den rechter al wat gij wilt.
 
 De beenhouwers en Lamme herhaalden gezamenlijk, met een dof gemurmel:
@@ -18021,11 +18050,11 @@ Hij lag op den rug, met zijn zweerd in de toegenepen hand; zijne bus
 lag op het zand. Naast hem waren drie afgesneden vingeren, die de zijne
 niet waren, en die zij meedroegen. Zijne gordeltasch was hem ontnomen.
 
-Zij namen het lijk van hunnen gezel op de schouderen; zijn flink zweerd
-en zijn dappere bus droegen zij insgelijks mede, en, grammoedig en
-jammerend,droegen zij het lijk naar het baljuwschap, alwaar de baljuw
-het ontving, bijgestaan door zijnen griffier-crimineel, door twee
-schepenen, alsmede door twee chirurgijns.
+Zij namen het lijk van hunnen gezel op de schouderen; zijn flink
+zweerd en zijn dappere bus droegen zij insgelijks mede, en, grammoedig
+en jammerend, droegen zij het lijk naar het baljuwschap, alwaar de
+baljuw het ontving, bijgestaan door zijnen griffier-crimineel, door
+twee schepenen, alsmede door twee chirurgijns.
 
 De afgesneden vingeren werden onderzocht en bevonden als zijnde die van
 eenen ouderling, dewelke van geenerlei ambacht kon zijn, want zij waren
@@ -19520,9 +19549,10 @@ En de jammerende Nele bleef bij Katelijne, dewelke gedurig zeide:
 
 
 
+
+
+
 VIERDE BOEK.
-
-
 
 
 I.
@@ -22589,7 +22619,7 @@ golven, weerklinken pijpen en doedelzakken, klokken de flesschen,
 rinkelen de klinkaards, flikkeren de bussen der geweren.
 
 --Nu, sprak Uilenspiegel, slaat op de trom van de zege, slaat de
-trom van de vreugde! Vive le Geus! Spanje is verslagen,de vampier
+trom van de vreugde! Vive le Geus! Spanje is verslagen, de vampier
 is getemd. Aan ons de zee, Brielle is genomen! Aan ons heel de kust
 van Nieuwpoort tot Helder, met Oostende, Blankenberge, de Zeeuwsche
 eilanden, de monden der Schelde, de monden der Maas, de monden van
@@ -22952,7 +22982,7 @@ in de kevies; de volgepropte kapoenen kijken beteuterd in de houten
 kooien, in dewelke zij zich niet kunnen verroeren. Ik ben de kok. Het
 ijs kraakt onder de schaatsijzers. Wij zijn nabij de schepen. Morgen
 speelt er muziek in de keuken. Laat de katrollen beneden. Bindt de
-banden om de koeien en ossen, 't Is een schoon schouwspel, ze aldus
+banden om de koeien en ossen. 't Is een schoon schouwspel, ze aldus
 bij den buik te zien hangen; morgen zullen wij hangen met de tong aan
 hun vette stoverije. De katrol hijscht ze op tot boven het ruim. Het
 zijn karbonaden. Smijt maar overhoop in het ruim, eenden, kapoenen,
@@ -23376,7 +23406,7 @@ regenen rondom hem, en hij voelt er niets van dan den wind. Gij zijt
 voorzeker een geest, Uilenspiegel, en gij ook Nele, want gij zijt
 beiden altijd jeugdig en luimig.
 
----Wat hebt gij aan uw been? vroeg Nele tot Lamme.
+--Wat hebt gij aan uw been? vroeg Nele tot Lamme.
 
 --Ik ben geen geest en zal het nooit wezen, sprak hij. Ik heb dan
 ook een bijlslag gekregen in mijne bil,--mijne vrouw had er zulke
@@ -23488,13 +23518,11 @@ En Uilenspiegel zong:
 
 
 
-       *       *       *       *       *
+
 
 
 
 VIJFDE BOEK.
-
-
 
 
 I.
@@ -23795,7 +23823,6 @@ En hij zong:
     Arm België, dan vertoonde men
     Een oude historie:
     Joseph verkocht door zijn broeders.
-
 
 
 
@@ -24164,8 +24191,6 @@ Uilenspiegel:
 
 
 
-
-
 VI.
 
 In de Bloeimaand, als wanneer de Vlaamsche boerinnen 's nachts
@@ -24306,8 +24331,8 @@ dat ik misdoe, maar ik bemin u, mijn man! Ik heb voor God gezworen: ik
 verbreek mijnen eed, mijn man, mijn arme man! dikwijls ben ik gekomen
 zonder u te durven naderen; eindelijk stond de matroos het mij toe:
 ik verbond uwe wond, gij herkendet mij niet; maar ik heb u genezen,
-wees niet grammoedig, man! Ik ben u gevolgd, maar ik ben bevreesd, hij
-is op dit schip: Ilaat mij vertrekken; zoo hij mij zag, zou hij mij
+wees niet grammoedig, man! Ik ben u gevolgd, maar ik ben bevreesd,
+hij is op dit schip: laat mij vertrekken; zoo hij mij zag, zou hij mij
 verdoemen en zou ik branden in het eeuwige vuur!" Zij kuste mij nog,
 weenend en gelukkig, en vertrok, mijns ondanks, in spijt van mijne
 tranen: gij hadt mijne armen en beenen gebonden, mijn zoon, maar nu....
@@ -25295,11 +25320,17 @@ nooit! Kom, Nele.
 En hij toog henen met heur en zong zijn zesde liedeken, maar niemand
 weet waar hij zijn laatste zingen zal....
 
-EINDE.
+
+                                 EINDE.
 
 
 
-NOTEN
+
+
+
+
+AANTEEKENINGEN
+
 
 [1] Deze Voorrede werd, met een bepaald aantal platen, gevoegd in de
 eerste Fransche uitgave. (Lacroix-Verboeckhoven & Co.)
@@ -25324,9 +25355,10 @@ den Vertaler.)
 
 
 End of the Project Gutenberg EBook of De legende en de heldhaftige,
-vroolijke en roemrijke daden van Uilenspiegel en Lamme Goedzak in Vlaanderenland en elders, by Charles de Coster
+vroolijke en roemrijke daden van Uilenspiegel en Lamme Goedzak in
+Vlaanderenland en elders, by Charles de Coster
 
-*** END OF THIS PROJECT GUTENBERG EBOOK UILENSPIEGEL ***
+*** END OF THIS PROJECT GUTENBERG EBOOK DE LEGENDE EN DE HELDHAFTIGE ***
 
 ***** This file should be named 11208-8.txt or 11208-8.zip *****
 This and all associated files of various formats will be found in:
@@ -25366,7 +25398,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
+http://gutenberg.org/license).
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -25431,7 +25463,7 @@ copied or distributed:
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
+with this eBook or online at www.gutenberg.org/license
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
@@ -25466,7 +25498,7 @@ compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
 "Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
@@ -25538,7 +25570,7 @@ Gutenberg-tm electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
@@ -25560,7 +25592,7 @@ opportunities to fix the problem.
 1.F.4.  Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -25591,7 +25623,7 @@ because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
+assistance they need, are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
 remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -25658,8 +25690,8 @@ outside the United States.  U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
@@ -25679,7 +25711,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+     http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
